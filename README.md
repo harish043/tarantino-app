@@ -19,7 +19,7 @@ Tarantino is a sleek and responsive movie discovery app built using **ReactJS**.
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/tarantino.git
+git clone https://github.com/your-username/tarantino-app.git
 cd tarantino
 npm install
 npm start
