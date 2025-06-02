@@ -1,6 +1,8 @@
 # 🎬 Tarantino – Movie Discovery Web App
 
 Tarantino is a sleek and responsive movie discovery app built using **ReactJS**. It leverages the **TMDb API** to fetch real-time data on trending, top-rated, and upcoming movies. With features like search, genre filtering, and a modern UI, Tarantino delivers an engaging movie browsing experience.
+View on Vercel: 
+https://tarantino-app.vercel.app/
 
 ## 🚀 Features
 
@@ -23,3 +25,4 @@ git clone https://github.com/your-username/tarantino-app.git
 cd tarantino
 npm install
 npm start
+
